@@ -420,3 +420,8 @@ while True:
 
 print("Good Bye")
 ```
+
+
+![Flow Chart LMS_1](https://user-images.githubusercontent.com/72499151/157419274-9ecbf25c-e9c7-45b3-b26e-7af4ce6f8c4f.jpg)
+![FLow lms_1](https://user-images.githubusercontent.com/72499151/157419223-40bf362a-ccfa-4a22-a363-58e22ca6deb1.jpg)
+![Flow Chart LMS_2](https://user-images.githubusercontent.com/72499151/157419286-5a2ddd98-dfea-465f-a448-b7158cf8d147.jpg)
